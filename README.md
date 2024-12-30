@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Gabriel Kinshuk
 
-<!--
-**sgromk/sgromk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 **This profile README is a WIP**
+___
+## 🧠 Currently learning
+* PyTorch, TensorFlow, SQL
+___
+## 🚧 I’m currently working on  
+* Writing a compiler from *The Elements of Computing Systems: Building a Modern Computer from First Principles*
+* Finishing a few courses on Object-Oriented Design and Machine Learning
+* This README! (Mostly adding gifs and images)
+___
+## 📚 Currently reading :  
+* *Foundation Mathematics for Computer Science* by John Vince  
+* *Reinforcement Learning for Finance* by Samit Ahlawat
+___
+## 🌱 Hobbies
+* 🧩 Cryptic crosswords  
+* 🪵 Woodworking
+  * Crafting furniture and saving costs
+* 🧵 Sustainable fashion
+  * Thrifting, upcycling, and buying consciously
+___
+## 📜 Check out my recent thoughts:
+* [Blog post 1](#)
+* [Blog post 2](#)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+## 💿 I'd love to talk about my albums of the month
+* Amoroso - João Gilberto  
+* The New Abnormal - The Strokes  
