@@ -7,7 +7,9 @@ ___
 - **Java**, **C++**
 ___
 ## 🧠 Currently learning
-* PyTorch, TensorFlow, SQL
+* **Frameworks & tools**: PyTorch, TensorFlow, SQL  
+* **In-person courses**: Linear Algebra, Discrete Mathematics, Applied Statistics
+
 ___
 ## 🚧 I’m currently working on  
 * Writing a compiler from *The Elements of Computing Systems: Building a Modern Computer from First Principles*
