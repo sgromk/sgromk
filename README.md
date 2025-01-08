@@ -32,8 +32,19 @@ ___
 
 ___ -->
 ## 💿 I'd love to talk about my albums of the month
-* Amoroso - João Gilberto
-<img src="assets/João_Gilberto_–_Amoroso.png" alt="Amoroso" width="200" height="200">
-
-* The New Abnormal - The Strokes
-<img src="assets/TheNewAbnormal_TheStrokes.jpg" alt="The New Abnormal" width="200" height="200">
+<table>
+  <tr>
+    <td><img src="assets/João_Gilberto_–_Amoroso.png" alt="Amoroso" width="200" height="200"></td>
+    <td>
+      <b>Amoroso</b> - João Gilberto<br>
+      <i>Bossa Nova</i>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/TheNewAbnormal_TheStrokes.jpg" alt="The New Abnormal" width="200" height="200"></td>
+    <td>
+      <b>The New Abnormal</b> - The Strokes<br>
+      <i>Indie Rock</i>
+    </td>
+  </tr>
+</table>
