@@ -12,7 +12,6 @@ ___
 ## 🚧 I’m currently working on  
 * Writing a compiler from *The Elements of Computing Systems: Building a Modern Computer from First Principles*
 * Finishing a few courses on Object-Oriented Design and Machine Learning
-* This README! (Mostly adding gifs and images)
 ___
 ## 📚 Currently reading
 * *Foundation Mathematics for Computer Science* by John Vince  
