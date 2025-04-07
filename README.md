@@ -29,17 +29,17 @@ ___
   * Albums I have on repeat this month  
   <table>
   <tr>
-    <td><img src="assets/João_Gilberto_–_Amoroso.png" alt="Amoroso" width="80" height="80"></td>
+    <td><img src="assets/takoTsubo.png" alt="Tako Tsubo" width="80" height="80"></td>
     <td>
-      <b>Amoroso</b> - João Gilberto<br>
-      <i>Bossa Nova</i>
+      <b>Tako Tsubo</b> - L'Impératrice<br>
+      <i>Nu Disco</i>
     </td>
   </tr>
   <tr>
-    <td><img src="assets/TheNewAbnormal_TheStrokes.jpg" alt="The New Abnormal" width="80" height="80"></td>
+    <td><img src="assets/Melophobia.jpg" alt="Melophobia" width="80" height="80"></td>
     <td>
-      <b>The New Abnormal</b> - The Strokes<br>
-      <i>Indie Rock</i>
+      <b>Melophobia</b> - Cage The Elepahnt<br>
+      <i>Alternative Rock</i>
     </td>
   </tr>
 </table>
