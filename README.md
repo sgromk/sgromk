@@ -29,14 +29,14 @@ ___
   * Albums I have on repeat this month  
   <table>
   <tr>
-    <td><img src="assets/takoTsubo.png" alt="Tako Tsubo" width="80" height="80"></td>
+    <td><img src="assets/takoTsubo.jpg" alt="Tako Tsubo" width="120" height="120"></td>
     <td>
       <b>Tako Tsubo</b> - L'Impératrice<br>
       <i>Nu Disco</i>
     </td>
   </tr>
   <tr>
-    <td><img src="assets/Melophobia.jpg" alt="Melophobia" width="80" height="80"></td>
+    <td><img src="assets/Melophobia.jpg" alt="Melophobia" width="120" height="120"></td>
     <td>
       <b>Melophobia</b> - Cage The Elepahnt<br>
       <i>Alternative Rock</i>
