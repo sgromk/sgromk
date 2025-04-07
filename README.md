@@ -11,13 +11,12 @@ ___
 * **In-person courses**: Linear Algebra, Discrete Mathematics, Applied Statistics
 
 ___
-## 🚧 I’m currently working on  
-* Writing a compiler from *The Elements of Computing Systems: Building a Modern Computer from First Principles*
-* Finishing a few courses on Object-Oriented Design and Machine Learning
+## 🚧 I’m currently working on
+* Finishing the Deep Learning specialization by Andrew Ng
 * Working on a business analytics project using Scikit-learn and TensorFlow
 ___
 ## 📚 Currently reading
-* *Foundation Mathematics for Computer Science* by John Vince  
+* *Real Mathematical Analysis* by Charles Pugh
 * *Reinforcement Learning for Finance* by Samit Ahlawat
 ___
 ## 🌱 Hobbies
