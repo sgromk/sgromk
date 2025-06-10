@@ -8,12 +8,13 @@ ___
 ___
 ## 🧠 Currently learning
 * **Frameworks & tools**: PyTorch, TensorFlow, SQL  
-* **In-person courses**: Linear Algebra, Discrete Mathematics, Applied Statistics
+* **In-person courses**: Multivariable calculus, Financial Analytics, Introduction to Machine Learning, Data Science Programming
 
 ___
 ## 🚧 I’m currently working on
-* Finishing the Deep Learning specialization by Andrew Ng
-* Working on a business analytics project using Scikit-learn and TensorFlow
+* Working through *Data Science in R: A Gentle Introduction*, a recommended preparatory textbook for my upcoming Masters in Business Analytics
+* Working on the Deep Learning specialization by Andrew Ng
+* Finishing online specializations in Finance and Quantitative Modeling as well as Data Science
 ___
 ## 📚 Currently reading
 * *Real Mathematical Analysis* by Charles Pugh
