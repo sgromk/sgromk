@@ -1,14 +1,14 @@
 # Hi, I'm Gabriel Kinshuk
 ___
 ## 🔧 Tools & Technologies
-- **Python**: NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn
+- **Python**: NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, GurobiPy
 - **R**: ggplot2, randomForest, tidymodels
 - **SQL**
 - **Java**, **C++**
 ___
 ## 🧠 Currently learning
-* **Frameworks & tools**: PyTorch, TensorFlow, SQL  
-* **In-person courses**: Multivariable calculus, Financial Analytics, Introduction to Machine Learning, Data Science Programming
+* **Frameworks & tools**: Advanced SQL  
+* **In-person courses**: Unsupervised Learning, Time-Series Analysis, Generative AI
 
 ___
 ## 🚧 I’m currently working on
