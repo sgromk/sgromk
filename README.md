@@ -11,8 +11,6 @@ and architectural design, fashion, live music, woodworking, puzzles
 (cryptics, straight crosswords, sudokus, logic puzzles), trivia, and history.
 
 ## Technical Skills
-
-## Technical Skills
 These days I mostly work in Python, Bash, and SQL, with some C++. For the
 full list of languages and tools I've used, see my site. It leans data
 engineering, data science, and computer science.
@@ -25,4 +23,4 @@ engineering, data science, and computer science.
 - *An Introduction to Statistical Learning* by James et al.
 - *The Brothers Karamazov* by Fyodor Dostoevsky
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgromk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888)
+![Top Languages](https://github-readme-stats-jet-alpha-43.vercel.app/api/top-langs/?username=sgromk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888)
