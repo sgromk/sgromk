@@ -23,4 +23,6 @@ engineering, data science, and computer science.
 - *An Introduction to Statistical Learning* by James et al.
 - *The Brothers Karamazov* by Fyodor Dostoevsky
 
+---
+
 ![Top Languages](https://github-readme-stats-jet-alpha-43.vercel.app/api/top-langs/?username=sgromk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888)
