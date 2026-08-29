@@ -16,8 +16,8 @@ full list of languages and tools I've used, see my site. It leans data
 engineering, data science, and computer science.
 
 ## Currently Working On
-- A data structures and algorithms specialization, to tighten up my algorithmic foundations
-- Topics in mathematics with applications in finance
+- A data structures and algorithms specialization
+- Topics in mathematics with applications in finance through OCW
 
 ## Reading
 - *An Introduction to Statistical Learning* by James et al.
@@ -25,4 +25,6 @@ engineering, data science, and computer science.
 
 ---
 
-![Top Languages](https://github-readme-stats-jet-alpha-43.vercel.app/api/top-langs/?username=sgromk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888)
+<p align="center">
+  <img src="https://github-readme-stats-jet-alpha-43.vercel.app/api/top-langs/?username=sgromk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888" alt="Top Languages" />
+</p>
